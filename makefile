@@ -1,6 +1,6 @@
 all: picmaker.py
-	python picmaker.py
+	py picmaker.py
 
 clean:
-	rm pic.ppm
-	rm pic.png
+	rm picmaker.ppm
+	rm picmaker.png
